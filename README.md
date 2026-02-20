@@ -1,4 +1,4 @@
-# Mp3Kut — Editor de Audio MP3
+# AudioKut — Editor de Audio MP3
 
 Aplicación web para importar, reproducir y cortar archivos de audio (MP3 u otros formatos soportados por el navegador). Permite marcar puntos de corte en la forma de onda y exportar el audio dividido en segmentos en formato WAV.
 
@@ -42,7 +42,7 @@ Requisitos: Node.js (recomendado v18+).
 
 ```bash
 # Clonar y entrar en el proyecto
-cd mp3kut
+cd audioKut
 
 # Instalar dependencias
 npm install
